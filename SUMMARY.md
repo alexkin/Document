@@ -14,21 +14,22 @@
   * [申请高德地图API接口权限](chapter1/du-shi-gong-shang-guo-shi-de.md)
 * [大客户扶持内容](gen-shen-di-gu-shou-dao-gong-si.md)
   * [工单服务流程](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi.md)
-    * [渠道销售下发工单](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/dan-shi-gong-si-gen-shen-di-gu.md)
-    * [确定渠道商权益，制作扶持清单](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/que-ding-qu-dao-shang-quan-yi-ff0c-zhi-zuo-fu-chi-qing-dan.md)
-    * [腾讯云平台注册](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/san-guo-shi-dai-gen-shen-di-gu.md)
-    * [服务器购买](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/shi-gen-shen-di-gu-shou-dao.md)
-    * [域名购买](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/shi-gong-shang-guo-shi-de.md)
-    * [域名备案](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/shi-dai-fen-shen-fa-zhu-de.md)
-    * [服务器配置及私有化系统套餐部署](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/fu-wu-qi-pei-zhi-ji-si-you-hua-xi-tong-tao-can-bu-shu.md)
-    * [确定部署系统能能功能详情](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/de-gong-shang-guo-shi-de.md)
-    * [更改后台logo](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/di-guo-shi-dai-gen-shen-di-gu.md)
-    * [系统后台交接账号密码交接](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/shi-dai-gen-shen-di-gu-de-shi.md)
-  * 说大概是共商国是
-  * 公司根深蒂固
-  * 树大根深的归属感
-  * 三国时代根深蒂固是
-  * 时光是个大帅哥
-* 三国时代根深蒂固收到
+  * [公司扶持运营指导](gen-shen-di-gu-shou-dao-gong-si/gong-si-fu-chi-yun-ying-zhi-dao.md)
+  * [物料支持说明](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/dan-shi-gong-si-gen-shen-di-gu.md)
+  * [长期指导](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/shi-gen-shen-di-gu-shou-dao.md)
+* [腾讯云服务器](teng-xun-yun-fu-wu-qi.md)
+  * [腾讯云平台注册](teng-xun-yun-fu-wu-qi/ji-ji-kai-fa.md)
+  * [服务器购买](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/de-gong-shang-guo-shi-de.md)
+  * [域名购买](shi-guang-shi-ge-da-shuai-ge.md)
+  * 域名备案
+* [协助腾讯云平台注册](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/san-guo-shi-dai-gen-shen-di-gu.md)
+* [协助域名购买](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/shi-gong-shang-guo-shi-de.md)
+* [服务器配置及私有化系统套餐部署](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/fu-wu-qi-pei-zhi-ji-si-you-hua-xi-tong-tao-can-bu-shu.md)
+* [协助域名备案](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/shi-dai-fen-shen-fa-zhu-de.md)
+* [系统后台交接账号密码交接](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/shi-dai-gen-shen-di-gu-de-shi.md)
+* [确定渠道商权益，制作扶持清单](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/que-ding-qu-dao-shang-quan-yi-ff0c-zhi-zuo-fu-chi-qing-dan.md)
+* 树大根深的归属感
+* [更改后台logo](gen-shen-di-gu-shou-dao-gong-si/gen-shen-di-gu-de-shi/di-guo-shi-dai-gen-shen-di-gu.md)
+* 三国时代根深蒂固是
 * [sg时代根深蒂固](chapter1/sgshi-dai-gen-shen-di-gu.md)
 
